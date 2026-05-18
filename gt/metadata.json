@@ -1,0 +1,38 @@
+{
+  "normal1.mp4": {
+    "fps": 30.0,
+    "total_frames": 91,
+    "duration_sec": 3.0,
+    "stem": "normal1"
+  },
+  "normal2.mp4": {
+    "fps": 24.0,
+    "total_frames": 141,
+    "duration_sec": 5.9,
+    "stem": "normal2"
+  },
+  "normal3.mp4": {
+    "fps": 24.0,
+    "total_frames": 141,
+    "duration_sec": 5.9,
+    "stem": "normal3"
+  },
+  "fall1.mp4": {
+    "fps": 30.0,
+    "total_frames": 48,
+    "duration_sec": 1.6,
+    "stem": "fall1"
+  },
+  "fall2.mp4": {
+    "fps": 24.0698,
+    "total_frames": 138,
+    "duration_sec": 5.7,
+    "stem": "fall2"
+  },
+  "fall4.mp4": {
+    "fps": 24.0698,
+    "total_frames": 138,
+    "duration_sec": 5.7,
+    "stem": "fall4"
+  }
+}

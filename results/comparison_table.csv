@@ -1,0 +1,4 @@
+configuration,event_recall,event_precision,f1_event,latency_ms,far_alerts_per_min,excluded_visibility_frames,total_frames
+No filter (W=1),1.0,0.6666666666666666,0.8,0.0,264.1202763104429,76,697
+Current config,1.0,0.5714285714285714,0.7272727272727273,75.0,284.4372206420154,76,697
+Optimized (Grid Search),1.0,0.8,0.888888888888889,290.66666666666674,195.0426655830963,76,697

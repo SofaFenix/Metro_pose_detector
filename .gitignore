@@ -1,0 +1,47 @@
+# Конфиденциальные/тяжёлые директории (явные исключения)
+demo_fall4/
+demo_notfall/
+test2_with_filters/frames/
+test2_with_filters/figures/
+test2/data/
+test2/figures/
+final_test/figures/
+figures/
+
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.pyd
+*.so
+
+# Веса моделей и бинарники
+*.pt
+*.onnx
+*.weights
+*.bin
+*.safetensors
+
+# Данные, артефакты и логи
+data/
+frames/
+results/
+checkpoints/
+*.mp4
+*.avi
+*.mkv
+*.csv
+*.json
+*.log
+.env
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~

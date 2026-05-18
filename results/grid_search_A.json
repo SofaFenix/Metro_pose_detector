@@ -1,0 +1,27 @@
+{
+  "best": {
+    "experiment": "A",
+    "theta_threshold": 9.0,
+    "k_base": 0.8270000000000001,
+    "k_critical": 1.0270000000000001,
+    "tp": 109,
+    "fp": 3,
+    "tn": 54,
+    "fn": 10,
+    "precision": 0.9732142857142857,
+    "recall": 0.9159663865546218,
+    "f1": 0.9437229437229437,
+    "fp_rate": 0.05263157894736842
+  },
+  "grid_params": {
+    "GRID_THETA_MIN": 9.0,
+    "GRID_THETA_MAX": 119.0,
+    "GRID_THETA_STEP": 1.0,
+    "GRID_K_BASE_MIN": 0.727,
+    "GRID_K_BASE_MAX": 1.102,
+    "GRID_K_BASE_STEP": 0.05,
+    "GRID_K_CRITICAL_MIN": 0.927,
+    "GRID_K_CRITICAL_MAX": 3.772,
+    "GRID_K_CRITICAL_STEP": 0.05
+  }
+}
